@@ -5,7 +5,7 @@ class Bankai < Formula
   desc ""
   homepage ""
   url "https://github.com/krpk1900/bankai/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "1a3d6d6255e74490826a10c8e62d8413a2d7668c00611dcb5e6f41f838dc6a5b"
+  sha256 "406167521ff27b8635996a69aef962e641fa06742727df1ee26dd4881195dda1"
   license ""
 
   # depends_on "cmake" => :build
